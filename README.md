@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tianyun Wang! 
 - 👀 I’m interested in HCI! 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning a lot...
 - 💞️ I’m looking to collaborate on interactive products! 
 - 📫 txw438@miami.edu
 - 😊 @tianyunwang_
