@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TianyunWang0421
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tianyun Wang! 
+- 👀 I’m interested in HCI! 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on interactive products! 
+- 📫 txw438@miami.edu
+- 😊 @tianyunwang_
 
 <!---
 TianyunWang0421/TianyunWang0421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
