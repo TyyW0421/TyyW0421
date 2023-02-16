@@ -10,4 +10,5 @@ TianyunWang0421/TianyunWang0421 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianyunWang0421)](https://github.com/TianyunWang0421/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianyunWang0421)](https://github.com/TianyunWang0421/github-readme-stats)
+ -->
