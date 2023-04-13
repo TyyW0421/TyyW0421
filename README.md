@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tianyun Wang! 
+- 👋 Hi, I’m Tianyun Wang
 - 👀 I’m interested in HCI / Games :)
 - 💞️ https://tianyunwang0421.github.io/
 - 🌱 I’m currently learning a lot...
