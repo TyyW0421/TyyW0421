@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tianyun Wang! 
 - 👀 I’m interested in HCI / Games :)
-- 🌱 I’m currently learning a lot...
 - 💞️ https://tianyunwang0421.github.io/
+- 🌱 I’m currently learning a lot...
 - 📫 tianyunw@uchicago.edu
 - 😊 @tianyunwang_
 
