@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tianyun Wang
-- 👀 I’m interested in HCI / Games :)
+- 👀 I’m interested in HCI / IxD :)
 - 💞️ https://tianyunwang0421.github.io/
 - 🌱 I’m currently learning a lot...
 - 📫 tianyunw@uchicago.edu
