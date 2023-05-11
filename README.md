@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tianyun Wang
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" /> Hi, I’m Tianyun Wang
 - 👀 I’m interested in HCI & IxD :)
 - 💞️ https://tianyunwang0421.github.io/
 - 🌱 I’m currently learning a lot...
