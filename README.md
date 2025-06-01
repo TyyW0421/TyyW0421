@@ -17,7 +17,7 @@
   </div> -->
   <div style="display: flex; align-items: center; height: 28px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="25" height="25" style="margin-right: 5px;"/>
-    Current Projects: Vite/SQL Database Website • 3D Photogrammetry & Mirador for Historical Collections • Google API Geolocation Tool
+    Currently working on: Vite & SQL Website • 3D Photogrammetry & Mirador for Historical Collections • Google API Geolocation Tool
   </div>
   <div style="display: flex; align-items: center; height: 28px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" style="margin-right: 5px;"/>
