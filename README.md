@@ -17,15 +17,20 @@
   </div>
   
   <!-- Spacer & Skills Section -->
-  <div style="height: 10px;"></div> <!-- Vertical spacer -->
   <div style="display: flex; align-items: center; height: 28px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25" style="margin-right: 5px;"/>
-    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <div style="display: flex; align-items: center; gap: 6px; overflow-x: auto; padding-bottom: 2px;">
+      <!-- Tech Skills -->
       <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
       <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
-      <img src="https://img.shields.io/badge/RealityCapture-000000?logo=blender&logoColor=white" alt="RealityCapture">
+      <!-- HCI Skills -->
+      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/User_Research-FF6E3A" alt="User Research">
+      <img src="https://img.shields.io/badge/Prototyping-4285F4" alt="Prototyping">
+      <!-- 3D/Spatial -->
+      <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" alt="Blender">
       <img src="https://img.shields.io/badge/IIIF-FF6E3A?logo=iiif&logoColor=white" alt="IIIF">
-      <img src="https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=white" alt="Google Maps">
     </div>
   </div>
   
