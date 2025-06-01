@@ -31,6 +31,8 @@
       <img src="https://img.shields.io/badge/Figma-F26141?logo=figma&logoColor=white" alt="Figma">
       <img src="https://img.shields.io/badge/PCB-000000?logo=autodesk&logoColor=white" alt="PCB Design">
       <img src="https://img.shields.io/badge/Fusion_360-FE7316?logo=autodesk&logoColor=white" alt="Fusion 360">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,nodejs,figma&theme=light" alt="Fusion 360">
+    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,nodejs,figma&theme=light)
   </div>
   
   <div style="display: flex; align-items: center; height: 28px;">
