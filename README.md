@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/Adobe-E92012?logo=adobe&logoColor=white" alt="Adobe">
       <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity">
       <img src="https://img.shields.io/badge/p5.js-ED225D?logo=p5dotjs&logoColor=white" alt="p5.js">
-      <img src="https://img.shields.io/badge/Figma-2C2E34?logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/Figma-F26141?logo=figma&logoColor=white" alt="Figma">
       <img src="https://img.shields.io/badge/Fusion_360-0696D7?logo=autodesk&logoColor=white" alt="Fusion 360">
   </div>
   
