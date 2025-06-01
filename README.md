@@ -8,10 +8,9 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Heart" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
     I’m interested in HCI & IxD :)
   </p>
-  
-  <p>
+  <p style="margin: 0 0 8px 0;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
-    <a href="https://tyyw0421.github.io" style="color: #0969da; text-decoration: none;">My Portfolio: tyyw0421.github.io</a>
+    <a href="https://tyyw0421.github.io" style="color: #0969da; text-decoration: none;">Portfolio: tyyw0421.github.io</a>
   </p>
   
   <p style="margin: 0 0 8px 0;">
@@ -21,7 +20,7 @@
   
   <p style="margin: 0 0 8px 0;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
-    Currently working on: Vite/SQL Database Website • 3D Photogrammetry of Historical Sites • Mirador IIIF for Artworks Collections • Google Maps API Geolocation Discovery Tool
+    Currently working on: Vite/SQL Database Website • 3D Photogrammetry & Mirador IIIF for Historical Collections • Google Maps API Geolocation Tool
   </p>
   
   <p style="margin: 0;">
