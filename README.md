@@ -17,12 +17,10 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/One%20O%E2%80%99Clock.png" alt="Clock" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
     I’m always learning a lot...
   </p>
-  
   <p style="margin: 0 0 8px 0;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
-    Currently working on: Vite/SQL Database Website • 3D Photogrammetry & Mirador IIIF for Historical Collections • Google Maps API Geolocation Tool
+    Currently working on: Vite/SQL Database Website • 3D Photogrammetry & Mirador for Historical Collections • Google API Geolocation Tool
   </p>
-  
   <p style="margin: 0;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
     <a href="mailto:lydiaw0421@gmail.com" style="color: #0969da; text-decoration: none;">Let’s Collaborate: lydiaw0421@gmail.com</a>
