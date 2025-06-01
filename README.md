@@ -7,7 +7,7 @@
   <p style="margin-bottom: 2px;">3D Photogrammetry of Historical Sites</p>
   <p style="margin-bottom: 2px;">Mirador IIIF for Artworks Collections</p>
   <p>Google Places API Geolocation Discovery Tool</p>
-<br />&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Let’s Collaborate: lydiaw0421@gmail.com
+&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Let’s Collaborate: lydiaw0421@gmail.com
 
 <!---
 TianyunWang0421/TianyunWang0421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
