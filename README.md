@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" alt="Vue.js">
       <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
+      <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL">
       <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino">
       <img src="https://img.shields.io/badge/PCB-000000?logo=autodesk&logoColor=white" alt="PCB Design">
       <img src="https://img.shields.io/badge/Adobe-DA1F26?logo=adobe&logoColor=white" alt="Adobe">
