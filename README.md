@@ -21,14 +21,13 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Front-Facing Baby Chick" width="25" height="25" />
       <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
       <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
-      <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" alt="Blender">
       <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino">
       <img src="https://img.shields.io/badge/PCB_Eagle-000000?logo=autodesk&logoColor=white" alt="PCB Design">
-      <img src="https://img.shields.io/badge/Circuit_Design-8CA1AF" alt="Circuit Design">
       <img src="https://img.shields.io/badge/p5.js-ED225D?logo=p5dotjs&logoColor=white" alt="p5.js">
-      <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobexd&logoColor=white" alt="Adobe XD">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" alt="Blender">
+    ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
   </div>
   
   <div style="display: flex; align-items: center; height: 28px;">
