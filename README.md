@@ -1,34 +1,9 @@
-<div style="font-family: -apple-system, sans-serif; line-height: 1.6; max-width: 600px;">
-  <p style="margin: 0 0 8px 0;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
-    <span style="font-size: 1.1em; font-weight: 500;">Hi, I'm Lydia</span>
-  </p>
-  
-  <p style="margin: 0 0 8px 0;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Heart" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
-    Human-Computer Interaction & Interaction Design
-  </p>
-  
-  <p style="margin: 0 0 8px 0;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
-    <a href="https://tyyw0421.github.io" style="color: #0969da; text-decoration: none;">Portfolio: tyyw0421.github.io</a>
-  </p>
-  
-  <p style="margin: 0 0 8px 0;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/One%20O%E2%80%99Clock.png" alt="Clock" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
-    Currently exploring: 3D scanning, web mapping, and digital archives
-  </p>
-  
-  <p style="margin: 0 0 8px 0;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
-    Projects: Vite/SQL • Photogrammetry • IIIF • Google Maps API
-  </p>
-  
-  <p style="margin: 0;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
-    <a href="mailto:lydiaw0421@gmail.com" style="color: #0969da; text-decoration: none;">lydiaw0421@gmail.com</a>
-  </p>
-</div>
+&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25" height="25"/> Hi, I’m Lydia
+<br/>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="25" height="25"/> I’m interested in HCI & IxD :)
+<br/>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25"/> https://tyyw0421.github.io
+<br/>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/One%20O%E2%80%99Clock.png" alt="One O’Clock" width="25" height="25"/> I’m currently learning a lot...
+<br/>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25"/> Currently working on: <span style="display: inline-block; margin-left: 8px;">• Vite + SQL Library • 3D Photogrammetry • Mirador IIIF • Google Maps API</span>
+<br/>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25"/> Let’s Collaborate: lydiaw0421@gmail.com
 
 <!---
 TianyunWang0421/TianyunWang0421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
