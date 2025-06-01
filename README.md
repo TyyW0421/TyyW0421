@@ -23,6 +23,10 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" style="margin-right: 5px;"/>
     Let's Collaborate: <a href="mailto:lydiaw0421@gmail.com" style="color: #0969da; text-decoration: none; margin-left: 3px;">lydiaw0421@gmail.com</a>
   </div>
+    <div style="display: flex; align-items: center; height: 28px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Front-Facing Baby Chick" width="25" height="25" />
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></img>
+  </div>
 </div>
 
 <!---
