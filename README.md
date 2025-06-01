@@ -3,12 +3,10 @@
 <br />&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> https://tyyw0421.github.io
 <br />&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/One%20O%E2%80%99Clock.png" alt="One O’Clock" width="25" height="25" /> I’m currently learning a lot...
 <br />&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Currently working on: 
-<ul style="margin-top: 4px; padding-left: 20px; line-height: 1.3;">
-  <li style="margin-bottom: 2px;">Vite + SQL Library Database Website</li>
-  <li style="margin-bottom: 2px;">3D Photogrammetry of Historical Sites</li>
-  <li style="margin-bottom: 2px;">Mirador IIIF for Artworks Collections</li>
-  <li>Google Places API Geolocation Discovery Tool</li>
-</ul>
+  <p style="margin-bottom: 2px;">Vite + SQL Library Database Website</p>
+  <p style="margin-bottom: 2px;">3D Photogrammetry of Historical Sites</p>
+  <p style="margin-bottom: 2px;">Mirador IIIF for Artworks Collections</p>
+  <p>Google Places API Geolocation Discovery Tool</p>
 <br />&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Let’s Collaborate: lydiaw0421@gmail.com
 
 <!---
