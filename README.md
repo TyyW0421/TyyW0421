@@ -9,12 +9,12 @@
   </div>
   <div style="display: flex; align-items: center; height: 28px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25" height="25" style="margin-right: 5px;"/>
-    Portfolio: <a href="https://tyyw0421.github.io" style="color: #0969da; text-decoration: none; margin-left: 3px;">tyyw0421.github.io</a>
+    <a href="https://tyyw0421.github.io" style="color: #0969da; text-decoration: none; margin-left: 3px;">Portfolio: tyyw0421.github.io</a>
   </div>
-  <div style="display: flex; align-items: center; height: 28px;">
+<!--   <div style="display: flex; align-items: center; height: 28px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/One%20O%E2%80%99Clock.png" width="25" height="25" style="margin-right: 5px;"/>
     I'm always learning a lot...
-  </div>
+  </div> -->
   <div style="display: flex; align-items: center; height: 28px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="25" height="25" style="margin-right: 5px;"/>
     Current Projects: Vite/SQL Database Website • 3D Photogrammetry & Mirador for Historical Collections • Google API Geolocation Tool
