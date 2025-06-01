@@ -23,11 +23,12 @@
       <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
       <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino">
       <img src="https://img.shields.io/badge/PCB_Eagle-000000?logo=autodesk&logoColor=white" alt="PCB Design">
+      <img src="https://img.shields.io/badge/Adobe-DA1F26?logo=adobe&logoColor=white" alt="Adobe">
+      <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity">
       <img src="https://img.shields.io/badge/p5.js-ED225D?logo=p5dotjs&logoColor=white" alt="p5.js">
       <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/Fusion_360-0696D7?logo=autodesk&logoColor=white" alt="Fusion 360">
       <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" alt="Blender">
-    ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
   </div>
   
   <div style="display: flex; align-items: center; height: 28px;">
