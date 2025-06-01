@@ -19,7 +19,6 @@
   <!-- Spacer & Skills Section -->
   <div style="display: flex; align-items: center; height: 28px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25" style="margin-right: 5px;"/>
-    <div style="display: flex; align-items: center; gap: 6px; overflow-x: auto; padding-bottom: 2px;">
       <!-- Tech Skills -->
       <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
       <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
@@ -31,7 +30,6 @@
       <!-- 3D/Spatial -->
       <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" alt="Blender">
       <img src="https://img.shields.io/badge/IIIF-FF6E3A?logo=iiif&logoColor=white" alt="IIIF">
-    </div>
   </div>
   
   <div style="display: flex; align-items: center; height: 28px;">
