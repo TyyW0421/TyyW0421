@@ -13,7 +13,7 @@
   </div>
   <div style="display: flex; align-items: center; height: 28px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="25" height="25" style="margin-right: 5px;"/>
-    Currently working on: Vite & SQL Website • 3D Photogrammetry & Mirador Collections • Google API Geolocation Tool
+    Currently working on: Vite & SQL Website • 3D Photogrammetry & Mirador Collections • Geospatial Tool with Google APIs
   </div>
   
   <!-- Spacer & Skills Section -->
