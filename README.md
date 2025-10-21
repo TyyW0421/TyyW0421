@@ -1,11 +1,11 @@
 <div style="font-family: -apple-system, sans-serif; line-height: 1;">
   <div style="display: flex; align-items: center; height: 28px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" width="25" height="25" style="margin-right: 5px;"/>
-    <span style="font-size: 1.1em; font-weight: 500;">Hi, I'm Lydia</span>
+    <span style="font-size: 1.1em; font-weight: 500;">Transform traditional practices through digital interfaces</span>
   </div>
   <div style="display: flex; align-items: center; height: 28px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" width="25" height="25" style="margin-right: 5px;"/>
-    I'm interested in HCI & IxD :)
+    <span style="font-size: 1.1em; font-weight: 500;">Materialize code into tangible and interactive experiences</span>
   </div>
   <div style="display: flex; align-items: center; height: 28px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25" height="25" style="margin-right: 5px;"/>
